@@ -1,0 +1,17 @@
+img{
+    width: 200px;
+    position: relative;
+   top: 0;
+    left: 10px;
+}
+p2{
+    position: absolute;
+    top: 0px;
+    left: 200px;
+}
+header{
+    border-bottom: 2px solid black ;
+}
+body{
+    background-color: #D66800;
+}
